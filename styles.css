@@ -1,0 +1,17 @@
+body{color:#3c2d19;font-family:"Open Sans",sans-serif}.blog-title,.paragraph1,.yellow-font,h1,h2,h3{font-family:Montserrat,sans-serif!important}h1,h2,h3{color:#482701!important}.heading1{font-size:210%;font-weight:700}.paragraph1{font-weight:400;font-size:160%}.stats h4,.stats p{font-family:Poppins,sans-serif!important;font-weight:500}.blog-title,.yellow-font{color:#cf9e4d!important;font-weight:700}.blog_t{font-family:sans-serif!important}.hero{background-size:cover;background-position:top;color:#4a2902!important;text-align:center}@media (max-width:767.98px){.hero{background-image:url("https://ik.imagekit.io/maxwellness/images/background-image-mobile.png");height:770px}.stats{position:absolute;bottom:-140px}}@media (min-width:768px){.hero{background-image:url("https://ik.imagekit.io/maxwellness/images/background-image-desktop.png")}}.btn-custom,.btn.fw-bold,.btn.text-uppercase{background-color:#c37e1a;color:#fff;font-weight:600;font-family:Montserrat,sans-serif!important}.btn-custom:hover{background-color:#e2b98c;color:#4a2902}.nav-link{color:#3c2f1e!important}.navbar-toggler{background-color:#c27d1a;border:none;padding:8px 10px}.navbar-toggler-icon{display:block;width:22px;height:2px;background-color:#1e441e;margin:5px auto}.stats{padding:2rem 1rem;color:#fff}@media (max-width:767.98px){.hero-text-gradient{position:absolute;bottom:140px;border-radius:.5rem;display:inline-block;text-align:center;width:100%}.section-blur-border{position:relative;overflow:hidden}.section-blur-border::after{content:"";position:absolute;bottom:0;left:0;height:50px;width:100%;z-index:2}.hero-mobile-btn{position:absolute;bottom:280px;left:50%;transform:translateX(-50%);background-color:#c27d1a;color:#fff;padding:.75rem 2rem;border-radius:12px;font-weight:700}}.sticky-footer-buttons{position:fixed;bottom:0;left:0;right:0;background-color:rgba(33,33,33,.95);padding:.5rem 0;z-index:9999;box-shadow:0 -2px 6px rgba(0,0,0,.2)}.sticky-footer-buttons .btn{border-radius:.5rem;font-size:.9rem;white-space:nowrap}.fa-clover,.fa-leaf{font-size:30px;color:#e5ae3a}.fa-star{font-size:30px;color:#ffe153}.fa-arrow-up{font-size:40px;color:#5c6064}.card-bg{background-color:#542f17;color:#fdd9a4}
+.btn-call-now {
+			  background-color: #C6842F; /* Colore miele/ambrato */
+			  color: white;
+			  font-weight: bold;
+			  font-size: 1.2rem;
+			  padding: 0.75rem 2rem;
+			  border: none;
+			  border-radius: 12px;
+			  text-decoration: none;
+			  display: inline-block;
+			  transition: background-color 0.3s ease;
+			}
+
+			.btn-call-now:hover {
+			  background-color: #a96c24; /* Variante leggermente più scura al passaggio del mouse */
+			}
